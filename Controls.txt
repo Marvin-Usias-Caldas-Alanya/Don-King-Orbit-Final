@@ -1,0 +1,3 @@
+Controls:
+Arrow Keys to move and go up/down on ladder
+Space to Jump
